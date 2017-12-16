@@ -1,2 +1,1 @@
-# ConstrainlayoutEXample
-是一个约束布局的例子
+这是一个百度语音识别的demo，可以将普通话转成中文
